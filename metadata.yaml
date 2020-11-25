@@ -1,0 +1,24 @@
+_repo: He-was-buried-A-Sermon-for-Easter-Even_63688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macgill, Thomas (Curate of Clapham)
+    gutenberg_agent_id: '52601'
+    url: http://www.gutenberg.org/2009/agents/52601
+description: ''
+gutenberg_issued: '2020-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Holy Saturday -- Sermons'
+- !lcsh 'Bible. Corinthians, 1st, XV, 4 -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+- GITenberg
+title: '"He was buried." A Sermon for Easter Even'
+url: http://www.gutenberg.org/ebooks/63688
