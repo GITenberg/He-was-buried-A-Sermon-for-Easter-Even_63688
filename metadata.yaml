@@ -1,11 +1,16 @@
 _repo: He-was-buried-A-Sermon-for-Easter-Even_63688
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63688-h/images/cover.jpg
 creator:
   author:
     agent_name: Macgill, Thomas (Curate of Clapham)
     gutenberg_agent_id: '52601'
     url: http://www.gutenberg.org/2009/agents/52601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63688#He-was-buried-A-Sermon-for-Easter-Even
 gutenberg_issued: '2020-11-16'
 gutenberg_type: Text
 identifiers:
